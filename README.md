@@ -32,8 +32,8 @@ The application utilizes Django to manage tasks:
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/todo-list-app.git
-   cd todo-list-app
+   git clone https://github.com/Harshpatil0508/Daily-Agenda.git
+   cd Daily-Agenda
    
 2. Install dependencies:
    pip install -r requirements.txt
@@ -41,7 +41,7 @@ The application utilizes Django to manage tasks:
 3. Apply Database Migration :
    python manage.py migrate
 
-4.Run the development server :
-  python manage.py runserver
+4. Run the development server :
+   python manage.py runserver
 
-5.Access the application at http://localhost:8000 in your web browser.
+5. Access the application at http://localhost:8000 in your web browser.
